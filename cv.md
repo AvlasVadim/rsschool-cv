@@ -11,7 +11,8 @@
 
 ## A Little About Me
 Want to learn more and develop new skills. It's exciting to achieve new aims so I decided to try my-self in HTML/CSS/JS with RS School.
-## Skils
+
+## Skills
 * HTML
 * CSS
 * Python
