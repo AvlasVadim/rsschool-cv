@@ -1,4 +1,5 @@
 # Avlasenko Vadim
+![Me](https://user-images.githubusercontent.com/73850946/206942251-89281bea-97b2-44bb-a686-01cd8ed62966.jpg)
 
 ## Contact Information
 * [Location:](https://goo.gl/maps/fvNBewHfCjs6PpU29) Polotsk, Belarus
